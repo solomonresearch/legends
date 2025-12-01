@@ -6,4 +6,4 @@ Welcome to the Claude Hackathon!
 
 Welcome **Blaz**, **Matei**, and **Victor**!
 
-Let's build something legendary together.
+Let's build something legendary together. LFG!
